@@ -1,0 +1,14 @@
+{
+	// ui
+	"bold_folder_labels": true,
+	// cursor
+	"caret_style": "phase",
+	"highlight_line": false,
+	// font
+	"font_face": "Ubuntu Mono",
+	"font_size": 10,
+	// space
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"tab_size": 2
+}
