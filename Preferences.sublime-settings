@@ -1,14 +1,21 @@
 {
-	// ui
+	// main
+	"theme": "Soda Dark 3.sublime-theme",
 	"bold_folder_labels": true,
+	"highlight_modified_tabs": true,
+	"always_show_minimap_viewport": true,
+	"ensure_newline_at_eo_on_save": true,
+	"trim_trailing_white_space_on_save": true,
 	// cursor
 	"caret_style": "phase",
-	"highlight_line": false,
+	"wide_caret": true,
+	"highlight_line": true,
 	// font
-	"font_face": "Ubuntu Mono",
-	"font_size": 10,
-	// space
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
-	"tab_size": 2
+	"font_face": "Consolas",
+	"font_size": 11,
+	"font_options": ["bold"],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
 }
